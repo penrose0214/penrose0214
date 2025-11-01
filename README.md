@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=penrose0214)](https://github.com/penrose0214/github-readme-stats)
-출처: https://msyu1207.tistory.com/entry/git-profile-꾸미기-feat-badge-github-readme-stats 
