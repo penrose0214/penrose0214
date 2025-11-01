@@ -1,4 +1,4 @@
-## About Leonard 👋
+## About Leonard
 
 <!--
 **penrose0214/penrose0214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=penrose0214)](https://github.com/penrose0214/github-readme-stats)
+https://github-readme-stats.vercel.app/api?username=사용자명)&hide=stars,contribs&count_private=true
