@@ -1,6 +1,8 @@
 ## 🧭 About Leonard
 
 <div align="center">
+### ✨ from ASIC layout to Web apps...  
+A balanced foundation across hardware–software co-design, embedded systems, and full-stack development.
 
 ### ⚙️ Tech Stack Overview  
 
