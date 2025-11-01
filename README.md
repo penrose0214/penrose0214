@@ -35,12 +35,12 @@
 ### 📊 Contribution & Activity  
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=penrose0214&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=penrose0214&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=8B0000&icon_color=FF8C00&text_color=5C0000">
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=penrose0214&theme=transparent&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=penrose0214&theme=transparent&hide_border=true&ring=8B0000&fire=FF8C00&currStreakLabel=8B0000">
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=penrose0214&theme=react-dark&hide_border=true&bg_color=ffffff00">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=penrose0214&bg_color=ffffff00&color=8B0000&line=FF8C00&point=8B0000&area_color=8B0000&hide_border=true">
 
 </div>
