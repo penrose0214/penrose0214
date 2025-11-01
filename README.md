@@ -3,7 +3,6 @@
 <div align="center">
 
 ### ⚙️ Tech Stack Overview  
-A balanced foundation across hardware–software co-design, embedded systems, and full-stack development.
 
 ---
 
