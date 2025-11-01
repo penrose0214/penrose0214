@@ -1,10 +1,8 @@
-## 🧭 About Leonard
-
+## 🧭 About Leonard  
 <div align="center">
+
 ### ✨ from ASIC layout to Web apps...  
 A balanced foundation across hardware–software co-design, embedded systems, and full-stack development.
-
-### ⚙️ Tech Stack Overview  
 
 ---
 
@@ -12,9 +10,9 @@ A balanced foundation across hardware–software co-design, embedded systems, an
 <img src="https://img.shields.io/badge/RISC--V-283372?style=for-the-badge&logo=riscv&logoColor=white">
 <img src="https://img.shields.io/badge/Verilog-6E6E6E?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/SystemVerilog-4F4F4F?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/AXI%20Bus-1C1C1C?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
 <img src="https://img.shields.io/badge/SystemC-3949AB?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/AXI%20Bus-0071C5?style=for-the-badge&logoColor=white">
 
 #### 💻 Software Stack  
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
@@ -33,22 +31,17 @@ A balanced foundation across hardware–software co-design, embedded systems, an
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 
-
-### 📊 Contribution & Activity  
-
-### 📊 Contribution & Activity  
+---
 
 ### 📊 Contribution & Activity  
 
 <!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=penrose0214&show_icons=true&theme=transparent&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api?username=penrose0214&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5A2A27&icon_color=B35C44&text_color=3C2F2F">
 
 <!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=penrose0214&theme=transparent&hide_border=true">
+<img src="https://streak-stats.demolab.com?user=penrose0214&theme=transparent&hide_border=true&ring=5A2A27&fire=B35C44&currStreakLabel=5A2A27">
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=penrose0214&theme=react-dark&hide_border=true&bg_color=ffffff00">
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=penrose0214&bg_color=ffffff00&color=5A2A27&line=B35C44&point=703E3B&area_color=5A2A27&hide_border=true">
 
 </div>
