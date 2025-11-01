@@ -21,5 +21,9 @@
 
 
 ![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=penrose0214&hide=stars,contribs&count_private=true&show_icons=true)
-
+![RISC-V](https://img.shields.io/badge/RISC--V-283372?style=for-the-badge&logo=riscv&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-6E6E6E?style=for-the-badge&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-4F4F4F?style=for-the-badge&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SystemC](https://img.shields.io/badge/SystemC-3949AB?style=for-the-badge&logoColor=white)
 
