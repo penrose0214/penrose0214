@@ -33,7 +33,7 @@ A balanced foundation across hardware–software co-design, embedded systems, an
 
 ---
 
-### 📊 Contribution & Activity  
+### Contribution & Activity  
 
 <!-- GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=penrose0214&show_icons=true&theme=transparent&hide_border=true&count_private=true&title_color=5A2A27&icon_color=B35C44&text_color=3C2F2F">
