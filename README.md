@@ -4,6 +4,9 @@
 ### ✨ from ASIC layout to Web apps...  
 A balanced foundation across hardware–software co-design, embedded systems, and full-stack development.
 
+### Engineering Mind Set
+문제를 정의하고, 확장 가능한 백엔드 시스템으로 해결책을 구현하는 엔지니어가 되자.
+
 ---
 
 #### 🔩 Hardware Stack  
