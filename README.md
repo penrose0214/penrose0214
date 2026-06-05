@@ -5,7 +5,9 @@
 A balanced foundation across hardware–software co-design, embedded systems, and full-stack development.
 
 ### Engineering Mind Set
-문제를 정의하고, 확장 가능한 백엔드 시스템으로 해결책을 구현하는 엔지니어가 되자.
+능동적인 자세로 현장의 모호한 요구사항을 기술적으로 구체화하는 필드 임베디드 엔지니어
+초개인화 시대에 맞는, 고객의 다양성을 보장하고 발전시킬 수 있는 서비스를 개발하는 프로덕트 엔지니어
+센서, AI 모델, MCU의 기존 성능을 바탕으로 최적의 시스템을 설계하는 시스템 엔지니어
 
 ---
 
